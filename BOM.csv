@@ -1,0 +1,13 @@
+Item,Quantity,Unit,Notes
+T8 Lead Screw 2mm lead 500 mm (with nut),1,pcs,One per axis; anti-backlash recommended
+T8 screw round,10,pcs,
+LM8UU linear bearing,4,pcs,Two per platform
+NEMA17 stepper motor,3,pcs,
+M5 T-nut for 2020 extrusion,100,pcs,
+Shaft decoupler,5,pcs,One per lead screw
+Limit switch (mechanical),5,pcs,"X+/X-,Y+/Y-,Z+/Z-"
+Smooth shaft ˜8mm x 500mm,2,pcs, LM8UU bearings
+2020 T-slot extrusion 300mm,4,pcs,
+Emergency stop button,1,pcs,
+Spindle,1,,
+4 flute hrc65 end mill ,4,,
