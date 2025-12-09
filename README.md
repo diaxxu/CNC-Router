@@ -33,7 +33,7 @@ still didn't start this phase so y'all gonna need to wait !
 
 ## BOM (Bill of Materials)
 
-Here the secret sauce
+Here is the secret sauce!!
 
 | Item                                     | Quantity | Unit | Notes                                   |
 | ---------------------------------------- | -------- | ---- | --------------------------------------- |
