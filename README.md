@@ -24,7 +24,6 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 
 ![Full Assembly](photos/full1.png)
 
-This is quite long, maybe I should make it shorter
 ## Wiring Diagram
 
 still didn't start this phase so y'all gonna need to wait !
