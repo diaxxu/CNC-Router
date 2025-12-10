@@ -10,19 +10,19 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 
 ### Front View
 
-![Front View](photos/front.png)
+![Front View](photos/front1.png)
 
 ### Side View
 
-![Side View](photos/side.png)
+![Side View](photos/side1.png)
 
 ### Top View
 
-![Top View](photos/top.png)
+![Top View](photos/top1.png)
 
 ### Full Assembly
 
-![Full Assembly](photos/full.png)
+![Full Assembly](photos/full1.png)
 
 This is quite long, maybe I should make it shorter
 ## Wiring Diagram
