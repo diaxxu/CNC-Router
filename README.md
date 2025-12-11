@@ -27,11 +27,13 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 
 ![Full Assembly](photos/full1.png)
 
-## Wiring Diagram
+## Schematics and PCB Layout
+made it in Kicad 
+![Wiring Diagram](photo/schematic.png)
 
-still didn't start this phase so y'all gonna need to wait !
-
-![Wiring Diagram](images/wiring.png)
+![Wiring Diagram](photo/pcblayout.png)
+(i re-routed this 5 or 6 times 😭) </br>
+![Wiring Diagram](photo/3dlayout.png)
 
 ## BOM (Bill of Materials)
 
@@ -58,7 +60,7 @@ Here is the secret sauce!!
 | 1N5819          |50     | pcs   |                       9.87 ($1.07)                                              |
 | Screw terminal         |10     | pcs   |                       83.08 ($9.04)                                      |
 | Pin headers 1*40pin        |10     | pcs   |                      14.56 ($1.58)                                   |
-
+| PSU 24V 16A       |1    | pcs   |                      373.80 ($40.4)                                   |
 ### Total 
-- in Mad : 1647.47 </br>
-- in Dollar : 178.03
+- in Mad : 2,020.47 </br>
+- in Dollar : 218.07
