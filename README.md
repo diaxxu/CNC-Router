@@ -1,5 +1,8 @@
 # CNC-Router
-![logo](photos/logo1.png)
+<p align="center">
+  <img src="photos/logo.png" alt="logo">
+</p>
+
 This is my homemade CNC machine. It started as an idea and slowly turned into a full mission . I designed everything in Fusion 360, with 3d printed brackets. i also researched the parts, and carefully choosed components. I’m not calling it perfect, its **beautiful** and i like it  .
 
 ## Why I Made This
