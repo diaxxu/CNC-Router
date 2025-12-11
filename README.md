@@ -34,20 +34,28 @@ still didn't start this phase so y'all gonna need to wait !
 
 Here is the secret sauce!!
 
-| Item                                     | Quantity | Unit | Notes                                   |
+| Item                                     | Quantity | Unit | price  (in mad and usd)                              |
 | ---------------------------------------- | -------- | ---- | --------------------------------------- |
-| T8 Lead Screw 2mm lead 500 mm (with nut) | 1        | pcs  | One per axis; anti-backlash recommended |
-| T8 screw round                           | 10       | pcs  |                                         |
-| LM8UU linear bearing                     | 4        | pcs  | Two per platform                        |
-| NEMA17 stepper motor                     | 3        | pcs  |                                         |
-| M5 T-nut for 2020 extrusion              | 100      | pcs  |                                         |
-| Shaft decoupler                          | 5        | pcs  | One per lead screw                      |
-| Limit switch (mechanical)                | 5        | pcs  | X+/X-, Y+/Y-, Z+/Z-                     |
-| Smooth shaft ~8mm x 500mm                | 2        | pcs  | Works with LM8UU                        |
-| 2020 T-slot extrusion 300mm              | 4        | pcs  |                                         |
-| Emergency stop button                    | 1        | pcs  |                                         |
-| Spindle                                  | 1        | —    |                                         |
-| 4 flute HRC65 end mill                   | 4        | —    |                                         |
+| T8 Lead Screw 2mm lead 500 mm (with nut) | 1        | pcs  |   67.8    ($7.32)                                    |
+| T8 screw round                           | 10       | pcs  |   46.65      ($5.04)                                 |
+| LM8UU linear bearing                     | 4        | pcs  |     42.8     ($4.63)                                 |
+| NEMA17 stepper motor                     | 3        | pcs  |   240       ($25.92)                                 |
+| M5 T-nut for 2020 extrusion              | 100      | pcs  |    76.77      ($8.30)                                |
+| Shaft decoupler                          | 5        | pcs  |      71.52       ($7.73)                             |
+| Limit switch (mechanical)                | 5        | pcs  |        29.73        ($3.21)                          |
+| Smooth shaft ~8mm x 500mm                | 2        | pcs  |         134            ($14.47)                      |
+| 2020 T-slot extrusion 300mm              | 4        | pcs  |          273              ($29.48)                   |
+| Emergency stop button                    | 1        | pcs  |              36              ($3.89)                 |
+| Spindle                                  | 1        | pcs  |                   282           ($30.46)             |
+| 4 flute HRC65 end mill                   | 4        | pcs  |                     29.73           ($3.21)          |
+| Esp-32 wroom32                           |  1       | pcs  |            18.86      ($2.04)                        |
+| Capacitor 100uF                 | 40        | pcs   |                          135.35 ($14.62)                    |
+| DRV8825              |5      | pcs   |                       45.88 ($4.95)                                        |
+| irlz44n            |10     | pcs   |                       9.87 ($1.07)                                           |
+| 1N5819          |50     | pcs   |                       9.87 ($1.07)                                              |
+| Screw terminal         |10     | pcs   |                       83.08 ($9.04)                                      |
+| Pin headers 1*40pin        |10     | pcs   |                      14.56 ($1.58)                                   |
 
-More things will probably get added because that’s how these builds go. But for now, this is the heart of the machine.
-
+### Total 
+- in Mad : 1647.47 </br>
+- in Dollar : 178.03
