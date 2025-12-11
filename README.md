@@ -28,12 +28,16 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 ![Full Assembly](photos/full1.png)
 
 ## Schematics and PCB Layout
-made it in Kicad 
-![Wiring Diagram](photo/schematic.png)
+**made it in Kicad** 
+![Wiring Diagram](photos/schematic.png)
 
-![Wiring Diagram](photo/pcblayout.png)
+![pcblayout](photos/layout.png)
+
+
 (i re-routed this 5 or 6 times 😭) </br>
-![Wiring Diagram](photo/3dlayout.png)
+
+
+![3dview](photos/3dview.png)
 
 ## BOM (Bill of Materials)
 
