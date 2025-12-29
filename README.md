@@ -66,5 +66,6 @@ Here is the secret sauce!!
 | Pin headers 1*40pin        |10     | pcs   |                      14.56 ($1.58)                                   |  https://www.aliexpress.com/item/32980998451.html?spm=a2g0o.productlist.main.4.6ff54f9dFpS61i&aem_p4p_detail=202512120412263191470227330580000181648&algo_pvid=725f76e7-70a3-44bd-9da3-b267a7eabeb5&pdp_ext_f=%7B%22order%22%3A%22149%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32980998451%7C_p_origin_prod%3A&search_p4p_id=202512120412263191470227330580000181648_1               |
 | PSU 24V 16A       |1    | pcs   |                      373.80 ($40.4)                                   |https://www.aliexpress.com/item/1005003962776196.html?spm=a2g0o.productlist.main.1.14347ac40PBlA3&algo_pvid=1247abea-e56f-4125-8b5c-04adc4c23b2b&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003962776196%7C_p_origin_prod%3A|
 ### Total 
-- in Mad : 2,020.47 </br>
-- in Dollar : 218.07
+- in Mad : 3.512 </br>
+- in Dollar : 384.72
+( ali express was set to deliver to the USA thats why it was cheaper now its much more expensive ) 
