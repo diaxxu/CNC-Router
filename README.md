@@ -3,7 +3,7 @@
   <img src="photos/logo.png" alt="logo">
 </p>
 
-This is my homemade modular CNC machine, built from simple available parts. I designed everything in Fusion 360, the brackets are 3d printed, researched every component, and chose them carefully. It’s not perfect, but it’s beautiful, and I genuinely enjoyed building it.
+This is my homemade modular CNC machine, built from simple available parts. I designed everything in Fusion 360, researched every component, and chose them carefully. It’s not perfect, but it’s beautiful, and I genuinely enjoyed building it.
 
 ## Why I Made This
 
@@ -13,31 +13,27 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 
 ### Front View
 
-![Front View](photos/front1.png)
+![Front View](photos/front.png)
 
 ### Side View
 
-![Side View](photos/side1.png)
+![Side View](photos/side.png)
 
-### Top View
-
-![Top View](photos/top1.png)
 
 ### Full Assembly
 
-![Full Assembly](photos/full1.png)
+![Full Assembly](photos/render11.png)
 
 ## Schematics and PCB Layout
 **made it in Kicad** 
-![Wiring Diagram](photos/schematic.png)
+![Wiring Diagram](photos/pcb2.png)
 
-![pcblayout](photos/layout.png)
+![pcb](photos/pcb.png)
 
 
 (i re-routed this 5 or 6 times 😭) </br>
 
 
-![3dview](photos/3dview.png)
 
 ## BOM (Bill of Materials)
 
