@@ -29,7 +29,8 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 ![Wiring Diagram](photos/pcb2.png)
 
 ![pcb](photos/pcb.png)
-
+Schematic ( wire diagram ) 
+![schematics](photos/schem.png)
 
 (i re-routed this 5 or 6 times 😭) </br>
 
@@ -66,4 +67,4 @@ Here is the secret sauce!!
 ### Total 
 - in Mad : 3.512 </br>
 - in Dollar : 384.72
-( ali express was set to deliver to the USA thats why it was cheaper now its much more expensive ) 
+
