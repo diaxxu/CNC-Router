@@ -7,7 +7,7 @@ This is my homemade modular CNC machine, built from simple available parts. I de
 
 ## Why I Made This
 
-To get more hands on experience ? this is a very cool project. A CNC that can carve wood and maybe on a good day cut aluminuim, isn't that great ?
+To get more hands on experience ? this is a very cool project. A CNC that can carve wood and maybe on a good day cut aluminum, isn't that great ?
 
 ## 3D Model 
 
@@ -36,7 +36,7 @@ Schematic ( wire diagram )
 (i re-routed this 5 or 6 times 😭) </br>
 
 ## Firmware Installation 
-1- assemble your driver board ( put the driver in plane ) slide it in the arduino uno <br/>
+1- assemble your driver board ( put the driver in plane ) Insert it into the Arduino Uno header <br/>
 2- connect the arduino uno your pc<br/> 
 3- download grbl.zip from the github <br/>
 4- upload the code <br/>
