@@ -35,7 +35,14 @@ Schematic ( wire diagram )
 
 (i re-routed this 5 or 6 times 😭) </br>
 
-
+## Firmware Installation 
+1- assemble your driver board ( put the driver in plane ) slide it in the arduino uno 
+2- connect the arduino uno your pc 
+3- download grbl.zip from the github 
+4- upload the code 
+5- install Universal Gcode sender 
+6- learn CAM software or use Easel 
+7- enjoy the results 
 
 ## BOM (Bill of Materials)
 
@@ -45,7 +52,7 @@ Here is the secret sauce!!
 | ---------------------------------------- | -------- | ---- |      ---------------------------------------- |
 | T8 Lead Screw 2mm lead 500 mm (with nut) | 1        | pcs  |          https://www.aliexpress.com/item/1005007457419235.html?spm=a2g0o.productlist.main.1.13e96abcm3Qxf8&algo_pvid=abe9b885-1ea4-4bde-81db-ef474f83f248&pdp_ext_f=%7B%22order%22%3A%221334%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007457419235%7C_p_origin_prod%3A                                      |
 | T8 screw round                           | 10       | pcs  |  https://www.aliexpress.com/item/1005007438925484.html?spm=a2g0o.productlist.main.1.663d47d6Xk5GhJ&algo_pvid=a073f148-42f6-4d7e-ae10-4d699659c8fb&pdp_ext_f=%7B%22order%22%3A%22195%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007438925484%7C_p_origin_prod%3A                                         |
-| LM8UU linear bearing                     | 4        | pcs  |  https://www.aliexpress.com/item/1005007791097936.html?spm=a2g0o.productlist.main.1.3edb5583NcR1Fg&algo_pvid=f794e0da-0bcf-4ead-a3f3-0a383e8e83e8&pdp_ext_f=%7B%22order%22%3A%221004%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007791097936%22%2C%22orig_item_id%22%3A%221005006822845504%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007791097936%7C_p_origin_prod%3A1005006822845504                                         |
+| LM6UU linear bearing                     | 4        | pcs  |  https://www.aliexpress.com/item/1005007791097936.html?spm=a2g0o.productlist.main.1.3edb5583NcR1Fg&algo_pvid=f794e0da-0bcf-4ead-a3f3-0a383e8e83e8&pdp_ext_f=%7B%22order%22%3A%221004%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007791097936%22%2C%22orig_item_id%22%3A%221005006822845504%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007791097936%7C_p_origin_prod%3A1005006822845504                                         |
 | NEMA17 stepper motor                     | 3        | pcs  |       https://www.aliexpress.com/item/1005003874936862.html?spm=a2g0o.productlist.main.1.3135692aSn653o&algo_pvid=01a18a8a-84a6-4b73-875e-59fb750efacf&pdp_ext_f=%7B%22order%22%3A%222333%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003874936862%7C_p_origin_prod%3A                                     |
 | M5 T-nut for 2020 extrusion              | 100      | pcs  |     https://www.aliexpress.com/item/1005007805744044.html?spm=a2g0o.productlist.main.1.21166df09vtnEI&algo_pvid=d509197c-5494-4b8d-bd75-dd62f6435446&pdp_ext_f=%7B%22order%22%3A%222654%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007805744044%22%2C%22orig_item_id%22%3A%221005007342221792%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007805744044%7C_p_origin_prod%3A1005007342221792                                          |
 | Shaft decoupler                          | 5        | pcs  |     https://www.aliexpress.com/item/1005006031199563.html?spm=a2g0o.productlist.main.9.44996081ngFjnD&algo_pvid=ea42cc85-9204-4080-b783-f4bf5ca40faf&pdp_ext_f=%7B%22order%22%3A%221177%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006031199563%7C_p_origin_prod%3A             |
@@ -64,7 +71,7 @@ Here is the secret sauce!!
 | Pin headers 1*40pin        |10     | pcs   |                     https://www.aliexpress.com/item/32980998451.html?spm=a2g0o.productlist.main.4.6ff54f9dFpS61i&aem_p4p_detail=202512120412263191470227330580000181648&algo_pvid=725f76e7-70a3-44bd-9da3-b267a7eabeb5&pdp_ext_f=%7B%22order%22%3A%22149%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32980998451%7C_p_origin_prod%3A&search_p4p_id=202512120412263191470227330580000181648_1               |
 | PSU 24V 16A       |1    | pcs   |                    https://www.aliexpress.com/item/1005003962776196.html?spm=a2g0o.productlist.main.1.14347ac40PBlA3&algo_pvid=1247abea-e56f-4125-8b5c-04adc4c23b2b&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003962776196%7C_p_origin_prod%3A|
 | pcb cost | 5 | pcs |  https://www.allpcb.com/cart?protype=2&upfileid=797791 |
-| 3d printing cost | 1898.021 | grams |  fusion estimation |
+| 3d printing cost | 456 | grams |  fusion estimation |
 ### Total 
 - in Mad : 3.512 </br>
 - in Dollar : 384.72
