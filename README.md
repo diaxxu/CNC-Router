@@ -36,13 +36,13 @@ Schematic ( wire diagram )
 (i re-routed this 5 or 6 times 😭) </br>
 
 ## Firmware Installation 
-1- assemble your driver board ( put the driver in plane ) slide it in the arduino uno 
-2- connect the arduino uno your pc 
-3- download grbl.zip from the github 
-4- upload the code 
-5- install Universal Gcode sender 
-6- learn CAM software or use Easel 
-7- enjoy the results 
+1- assemble your driver board ( put the driver in plane ) slide it in the arduino uno <br/>
+2- connect the arduino uno your pc<br/> 
+3- download grbl.zip from the github <br/>
+4- upload the code <br/>
+5- install Universal Gcode sender <br/>
+6- learn CAM software or use Easel <br/>
+7- enjoy the results <br/>
 
 ## BOM (Bill of Materials)
 
