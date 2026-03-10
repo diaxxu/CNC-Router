@@ -33,7 +33,8 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 ![Wiring Diagram](photos/pcb2.png)
 
 ![pcb](photos/pcb.png)
-
+![pcb](photos/cncshield.jpeg)
+im really bad at soldering :c
 Schematic ( wire diagram ) 
 ![schematics](photos/schem.png)
 
