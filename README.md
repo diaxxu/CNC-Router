@@ -24,6 +24,10 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 
 ![Full Assembly](photos/render11.png)
 
+![Full Assembly](photos/20260215_170608.jpg)
+
+![Full Assembly](photos/20260302_042218.jpg)
+
 ## Schematics and PCB Layout
 **made it in Kicad** ![schematics](photos/schematic.png)
 ![Wiring Diagram](photos/pcb2.png)
