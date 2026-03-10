@@ -31,14 +31,14 @@ To get more hands on experience ? this is a very cool project. A CNC that can ca
 ## Schematics and PCB Layout
 **made it in Kicad** ![schematics](photos/schematic.png)
 ![Wiring Diagram](photos/pcb2.png)
-
+(i re-routed this 5 or 6 times 😭) </br>
 ![pcb](photos/pcb.png)
 ![pcb](photos/cncshield.jpeg)
-im really bad at soldering :c
-Schematic ( wire diagram ) 
+im really bad at soldering :c </br>
+### Schematic ( wire diagram ) 
 ![schematics](photos/schem.png)
 
-(i re-routed this 5 or 6 times 😭) </br>
+
 
 ## Firmware Installation 
 1- assemble your driver board ( put the driver in plane ) Insert it into the Arduino Uno header <br/>
